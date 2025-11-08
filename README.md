@@ -8,7 +8,7 @@
 ---
 
 ## SISTEMA DE RASTREAMENTO GPS IoT COM INTEGRAÇÃO ORACLE
-- Foi impossivel testar com um esp32 fisiíco ou cirtual do wokwi, segue a documentação de um teorico possivel.
+- Foi impossivel testar com um esp32 fisíco ou virtual do wokwi, segue a documentação de um teorico possivel.
 ---
 
 ## 1. EVOLUÇÃO DO PROJETO
